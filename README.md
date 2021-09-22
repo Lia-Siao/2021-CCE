@@ -9,3 +9,11 @@
 在數字 1,2,3,4 的左邊, 有個特別的小點 backquote `
 
 如果有 3個小點 ``` 就可以引用一大段
+
+```C
+#include <stdio.h>
+int main() 
+{
+printf("Hello World\n");
+}
+```
