@@ -15,8 +15,8 @@ int main()
     	b=c;
     	c=temp;
     }
-    if ( a+b <= c ) printf("¿ù»~");
-    else if( a*a + b*b == c*c ) printf("ª½¨¤");
-    else if( a*a + b*b < c*c ) printf("¶w¨¤");
-    else if( a*a + b*b > c*c ) printf("¾U¨¤");
+    if ( a+b <= c ) printf("éŒ¯èª¤");
+    else if( a*a + b*b == c*c ) printf("ç›´è§’");
+    else if( a*a + b*b < c*c ) printf("éˆè§’");
+    else if( a*a + b*b > c*c ) printf("éŠ³è§’");
 }
