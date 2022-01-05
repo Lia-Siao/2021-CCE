@@ -1,5 +1,6 @@
 # 第07週
 
+week07-1.cpp
 ```c
 ///Week07 step01-1
 
@@ -18,6 +19,7 @@ int main()
 
 }
 ```
+week07-2.cpp
 ```c
    
 ///Week07 step01-2 複習 if(判斷) 及新的 while(迴圈)
@@ -33,6 +35,7 @@ int main()
     }
 }
 ```
+week07-3.cpp
 ```c
 ///Week07 step02-1 while(°j°é) °t n=n-1
 #include <stdio.h>
@@ -45,6 +48,7 @@ int main()
     }
 }
 ```
+week07-4.cpp
 ```c
 ///Week07 step02-2 變成 for(迴圈)
 #include <stdio.h>
@@ -56,6 +60,7 @@ int main()
     }
 }
 ```
+week07-5.cpp
 ```c
 ///Week07 step03-1
 ///了解 for (迴圈)
@@ -73,6 +78,7 @@ int main()
     }///會跑3次
 }
 ```
+week07-6.cpp
 ```c
 ///Week07 step03-2 各種比較 for迴圈
 #include <stdio.h>
