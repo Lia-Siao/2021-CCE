@@ -1,7 +1,7 @@
 # 第08週
 
-```c
-   
+week08-1.cpp
+```c  
 ///step01-1
 #include <stdio.h>
 int main()
@@ -17,6 +17,7 @@ int main()
 	printf("%d", sum);
 }
 ```
+week08-2.cpp
 ```c
 ///step02-1
 #include <stdio.h>
@@ -36,6 +37,7 @@ int main()
     ///把bad拿來用!!!
 }
 ```
+week08-3.cpp
 ```c
 ///step02-2
 #include <stdio.h>
@@ -52,6 +54,7 @@ int main()
     }
 }
 ```
+week08-4.cpp
 ```c
 ///step03-1
 #include <stdio.h>
@@ -70,6 +73,7 @@ int main()
     }
 }///高度越高，程式越多... ex. 40層
 ```
+week08-5.cpp
 ```c
    
 ///step03-2
@@ -92,6 +96,7 @@ int main()
     }
 }
 ```
+week08-6.cpp
 ```c
 ///step03-3
 #include <stdio.h>
