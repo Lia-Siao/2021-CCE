@@ -1,6 +1,6 @@
 # 第03週
 
-#week03-1.cpp
+week03-1.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -8,7 +8,7 @@ int main()
     printf("Hello World\n");
 }
 ```
-#week03-2.cpp
+week03-2.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -17,7 +17,7 @@ int main()
     printf("Hello World\n");
 }
 ```
-#week03-3.cpp
+week03-3.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -27,7 +27,7 @@ int main()
 	printf( "%d", a+b );
 }
 ```
-#week03-4.cpp
+week03-4.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -36,7 +36,7 @@ int main()
     printf( "%d" , 300 );
 }
 ```
-#week03-5.cpp
+week03-5.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -46,7 +46,7 @@ int main()
     printf("%d %d    %d" , 300, 200, 100 );
 }
 ```
-#week03-6.cpp
+week03-6.cpp
 ```c
    
 #include <stdio.h>
@@ -59,7 +59,7 @@ int main()
     printf("a的值是:%d\n" , a);
 }
 ```
-#week03-7.cpp
+week03-7.cpp
 ```c
    
 #include <stdio.h>
