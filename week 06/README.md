@@ -1,5 +1,6 @@
 # 第06週
 
+week06-1.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -11,6 +12,7 @@ int main()
     printf ("a:%d b:%d\n",a,b);
 }
 ```
+week06-2.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -26,6 +28,7 @@ int main()
     printf ("a:%d b:%d\n",a,b);
 }
 ```
+week06-3.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -48,6 +51,7 @@ int main()
     printf("˛{Śba:%d b:%d c:%d\n",a,b,c);
 }
 ```
+week06-4.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -72,6 +76,7 @@ int main()
     else if( a*a + b*b > c*c ) printf("銳角");
 }
 ```
+week06-5.cpp
 ```c
 #include <stdio.h>
 int main()
