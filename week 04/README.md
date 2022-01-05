@@ -1,4 +1,4 @@
-# 第4週
+# 第04週
 
 ```c
 #include <stdio.h>
