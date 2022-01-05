@@ -1,5 +1,6 @@
 # 第10週
 
+week10-1.cpp
 ```c
 ///Week10-1 step01-1 數質數有幾個
 #include <stdio.h>
@@ -21,6 +22,7 @@ int main()
     printf("\n Ans: %d \n",ans);
 }
 ```
+week10-2.cpp
 ```c
 ///Week10-2.cpp step02-1
 #include <stdio.h>
@@ -42,6 +44,7 @@ int main()
     printf("f[2]:%d\n",f[2]);
 }
 ```
+week10-3.cpp
 ```c
 ///Week10-3.cpp step02-2
 #include <stdio.h>
@@ -57,6 +60,7 @@ int main()
     }
 }
 ```
+week10-4.cpp
 ```c
 ///Week10-4.cpp step03-1
 #include <stdio.h>
