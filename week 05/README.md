@@ -1,5 +1,6 @@
 # 第05週
 
+week05-1.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -13,6 +14,7 @@ int main()
     if (n<=59) printf("D");
 }
 ```
+week05-2.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -24,6 +26,7 @@ int main()
     if(a==0)printf("a¬O0");
 }
 ```
+week05-3.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -39,6 +42,7 @@ int main()
     if (3) printf("3是成立的嗎?\n");
 }
 ```
+week05-4.cpp
 ```c
    
 #include <stdio.h>
@@ -50,6 +54,7 @@ int main()
 	if (n%2==1)printf("odd");
 }
 ```
+week05-5.cpp
 ```c
 #include <stdio.h>
 int main()
