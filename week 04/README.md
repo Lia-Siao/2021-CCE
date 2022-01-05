@@ -1,5 +1,6 @@
 # 第04週
 
+week04-1.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -9,6 +10,7 @@ int main()
     printf("%d\n",a%b);
 }
 ```
+week04-2.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -20,6 +22,7 @@ int main()
     printf("floatªº°£ªk %f\n",ans2);
 }
 ```
+week04-3.cpp
 ```c
 #include <stdio.h>
 int main()
@@ -34,6 +37,7 @@ int main()
     printf("%9.5f\n",pii);
 }
 ```
+week04-4.cpp
 ```c
 #include <stdio.h>
 int main()
