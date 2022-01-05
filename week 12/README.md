@@ -1,5 +1,6 @@
 # 第12週
 
+week12-1.cpp
 ```c
 #include <stdio.h>
 int a[10]={3,0,1,8,7,2,5,4,6,9};
@@ -18,6 +19,7 @@ int main()
     printf("\n");
 }
 ```
+week12-2.cpp
 ```c
 #include <stdio.h>
 ///int a[10]={3,0,1,8,7,2,5,4,6,9};
@@ -39,6 +41,7 @@ int main()
     }
 }
 ```
+week12-3.cpp
 ```c
 #include <stdio.h>
 int a[10]={3,0,1,8,7,2,5,4,6,9};
@@ -60,6 +63,7 @@ int main()
     printf("\n");
 }
 ```
+week12-4.cpp
 ```c
    
 #include <stdio.h>
